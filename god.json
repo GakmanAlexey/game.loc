@@ -1,0 +1,51 @@
+[
+    [
+        ["stihiya","Свет"],
+        ["name","Илиона"],
+        ["sys_name","Iliona"],
+        ["cildren",["Lumiya","Faeron"]]
+    ],
+    [
+        ["stihiya","Тьма"],
+        ["name","Ноктэра"],
+        ["sys_name","Noktera"],
+        ["cildren",""]
+    ],
+    [
+        ["stihiya","Огонь"],
+        ["name","Игнис"],
+        ["sys_name","Ignis"],
+        ["cildren",""]
+    ],
+    [
+        ["stihiya","Вода"],
+        ["name","Мариана"],
+        ["sys_name","Mariana"],
+        ["cildren",""]
+    ],
+    [
+        ["stihiya","Земля"],
+        ["name","Террос"],
+        ["sys_name","Terros"],
+        ["cildren",""]
+    ],
+    [
+        ["stihiya","Воздух"],
+        ["name","Шейфир"],
+        ["sys_name","Sheifir"],
+        ["cildren",""]
+    ]
+    ,
+    [
+        ["stihiya","Рассвет и надежда"],
+        ["name","Люмия"],
+        ["sys_name","Lumiya"],
+        ["cildren",""]
+    ],
+    [
+        ["stihiya","Солнца и жизненой силы"],
+        ["name","Фаэрон"],
+        ["sys_name","Faeron"],
+        ["cildren",""]
+    ]
+]
